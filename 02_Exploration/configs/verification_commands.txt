@@ -1,0 +1,5 @@
+! Commands used to verify connectivity and device status
+
+ping 192.168.1.1          ! Test connectivity to router
+show ip interface brief    ! Check interface status on routers
+show running-config        ! Review current router configuration
