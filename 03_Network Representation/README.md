@@ -19,7 +19,7 @@ This project demonstrates the architectural design and configuration of a **Smal
 3. **Connectivity Validation**: Systematic testing of the OSI layers to verify end-to-end reachability.
 
 ## 📁 Artifacts
-- **[Lab_File.pka](./Network_Infrastructure.pka)**: The source Packet Tracer architecture.
+- **[Lab_File.pka](./Network_Infrastructure.pka)**: The source Packet Tracer architecture file.
 - **[Configuration_Logs.txt](./configs.txt)**: Raw CLI exports for review.
 
 ---
